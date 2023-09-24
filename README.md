@@ -32,5 +32,7 @@ Exprience in frontend development and design responsive website with HTML, CSS, 
   - [ ] Node.js
   - [ ] API
 
-## 📫 How to reach me ##
-  - jnop.ch@gmail.com
+## 📫 Reach me ##
+  - [Email: jnop.ch@gmail.com](mailto:jnop.ch@gmail.com) 
+  - [Line ID: janascii](https://line.me/ti/p/LkDQxK8G__)
+  - [IG: PIXAJAN](https://www.instagram.com/pixajan/)
