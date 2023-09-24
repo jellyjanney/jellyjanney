@@ -1,9 +1,9 @@
-👋 Hi, I'm [jellyjanney](https://thejanney.my.canva.site/portfolio).
-### 👀 I'm interested in ... ###
+## 👋 Hi, I'm [jellyjanney](https://thejanney.my.canva.site/portfolio) ##
+## 👀 I'm interested in ... ##
 - Frontend Design & Development.
 - Political Governance.
 - Development softskills and mentelhealth.
-### 🎒 I've knowladge about ... ###
+## 🎒 I've knowladge about ... ##
 
 | 🐤 Frontend | 🐣 Backend | 🐥 Framework |
 |:-----------------|:---------------|:-----------|
