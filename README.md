@@ -4,25 +4,20 @@
     - Political Governance.
     - Development other skills such as softskill, hardskill, and mentelhealth.
 - 🔰 I've knowladge about ...
-    - Frontend Skills
-        - HTML
-        - CSS
-        - SCSS
-        - JavaScript
-        - jQuery
-        - React.js
-    - Backend Skills
-        - PHP
-        - MySQL
-    - Framework
-        - Bootstrap
-        - Yii
-        - WordPress
-    - Basic level
-        - Typescript
-        - JSON
-        - C/C++
-        - Java
-        - ASP
+
+|  Frontend Skills  |  Backend Skills |  Framework  |
+|-------------------|:---------------:|------------:|
+|   HTML            |   PHP           |  Bootstrap  |
+|   CSS             |   MySQL         |  Yii2       |
+|   SCSS            |                 |  WordPress  |
+|   JavaScript      |                 |             |
+|   jQuery          |                 |             |
+|   React.js        |                 |             |
+|:------------------|:---------------:|------------:|
+|                       Basic level                 |
+|:------------------|:---------------:|------------:|
+|   Typescript      |  JSON           |  C/C++      |
+|   Java            |  ASP            |             |
+
 - 🆕 I'm currently learning Go, Node.js, API.
 - 📫 How to reach me jnop.ch@gmail.com
