@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm jellyjanney ##
 Exprience in frontend development and design responsive website with HTML, CSS, JavaScript and jQuery language on Bootstrap, Yii2 and PHP other Framework. You can get to know me more by
-[The Portfolio](https://thejanney.my.canva.site/portfolio)
- and 
-[The Resume](https://drive.google.com/file/d/1VnHQO3l_jmIOhUIwKBjAixDp4g3mbvKR/view)
+[The Portfolio](https://thejanney.my.canva.site/portfolio).
 
 ## 👀 I'm interested in ##
 - Frontend Design & Development.
