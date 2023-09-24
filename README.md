@@ -28,7 +28,8 @@ Exprience in frontend development and design responsive website with HTML, CSS, 
   - Java
 
 ## 🔴 I'm currently learning ##
-  - [ ] Go :clock1:
+  - [ ] Vue.js
+  - [ ] Go
   - [ ] Node.js
   - [ ] API
 
