@@ -14,7 +14,7 @@
     |   jQuery          |                 |             |
     |   React.js        |                 |             |
 
-    🐣 Basic level
+    - 🐣 Basic level
       - Typescript
       - JSON
       - C/C++
