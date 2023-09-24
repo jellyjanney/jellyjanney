@@ -25,4 +25,4 @@
     - [ ] Node.js
     - [ ] API
 ### 📫 How to reach me ### 
-  - jnop.ch@gmail.com
+    - jnop.ch@gmail.com
