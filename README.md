@@ -1,4 +1,4 @@
-- 👋 Hi, I'm (@jellyjanney)[https://github.com/jellyjanney/jellyjanney].
+- 👋 Hi, I'm @jellyjanney.
 - 👀 I'm interested in ...
     - Frontend Developing.
     - Political Governance.
