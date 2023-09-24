@@ -1,4 +1,4 @@
-### 👋 Hi, I'm [@jellyjanney](https://github.com/jellyjanney). ###
+👋 Hi, I'm [jellyjanney](https://thejanney.my.canva.site/portfolio).
 ### 👀 I'm interested in ... ###
 - Frontend Design & Development.
 - Political Governance.
