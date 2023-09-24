@@ -6,7 +6,7 @@
 - 🔰 I've knowladge about ...
 
 |  Frontend Skills  |  Backend Skills |  Framework  |
-|-------------------|:---------------:|------------:|
+|:------------------|:---------------:|------------:|
 |   HTML            |   PHP           |  Bootstrap  |
 |   CSS             |   MySQL         |  Yii2       |
 |   SCSS            |                 |  WordPress  |
@@ -15,9 +15,12 @@
 |   React.js        |                 |             |
 
 |                       Basic level                 |
-|-------------------|:---------------:|------------:|
+|:------------------|:---------------:|------------:|
 |   Typescript      |  JSON           |  C/C++      |
 |   Java            |  ASP            |             |
 
 - 🆕 I'm currently learning Go, Node.js, API.
+    [] Go (progessing)
+    [] Node.js
+    [] API
 - 📫 How to reach me jnop.ch@gmail.com
