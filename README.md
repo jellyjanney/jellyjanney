@@ -21,8 +21,8 @@
     - Java
 
 ### 🔴 I'm currently learning ###
-  - [ ] Go :clock1:
-  - [ ] Node.js
-  - [ ] API
+    - [ ] Go :clock1:
+    - [ ] Node.js
+    - [ ] API
 ### 📫 How to reach me ### 
   - jnop.ch@gmail.com
