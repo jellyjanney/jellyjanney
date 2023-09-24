@@ -1,5 +1,5 @@
-## 👋 Hi, I'm jellyjanney ##
-Exprience in frontend development and design responsive website with HTML, CSS, JavaScript and jQuery language on Bootstrap, Yii2 and PHP other Framework. You can get to know me more by
+## 👋 Hello world, I'm jellyjanney! ##
+The my name is Janney. I used to intern as an assistant programmer at Intelligent Business (Thailand), and worked as a web designer for about 3 years at Taozi Management. 1 year and Liquidity digital for another 2 years and most recently worked as a Frontend developer at [Zmyhome](https://th.zmyhome.com/) You can get to know me more by
 [My Portfolio](https://thejanney.my.canva.site/portfolio)
  or 
 [My Resume](https://drive.google.com/file/d/1VnHQO3l_jmIOhUIwKBjAixDp4g3mbvKR/view)
