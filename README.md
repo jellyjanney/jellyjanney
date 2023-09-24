@@ -33,6 +33,6 @@ Exprience in frontend development and design responsive website with HTML, CSS, 
   - [ ] API
 
 ## 📫 Reach me ##
-  - <a href="mailto:jnop.ch@gmail.com" target="_blank">Email: jnop.ch@gmail.com</a>
-  - <a href="https://line.me/ti/p/LkDQxK8G__" target="_blank">Line ID: janascii</a>
-  - <a href="https://www.instagram.com/pixajan/" target="_blank">IG: PIXAJAN</a>
+  - [Email: jnop.ch@gmail.com](mailto:jnop.ch@gmail.com)
+  - [Line ID: janascii](https://line.me/ti/p/LkDQxK8G__)
+  - [IG: PIXAJAN](https://www.instagram.com/pixajan/)
