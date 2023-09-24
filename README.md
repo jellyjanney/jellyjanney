@@ -1,8 +1,28 @@
-- 👋 Hi, I'm @jellyjanney.
-- 👀 I'm interested in 
-    - Frontend Programming (SCSS, JavaScript and SEO).
+- 👋 Hi, I'm (@jellyjanney)[https://github.com/jellyjanney/jellyjanney].
+- 👀 I'm interested in ...
+    - Frontend Developing.
     - Political Governance.
-    - Development other skills (softskill, hardskill, and mentelhealth).
-- 🔰 I've knowladge about C++/C, PHP, MySQL ect.
-- 🆕 I'm currently learning React Programming.
+    - Development other skills such as softskill, hardskill, and mentelhealth.
+- 🔰 I've knowladge about ...
+    - Frontend Skills
+        - HTML
+        - CSS
+        - SCSS
+        - JavaScript
+        - jQuery
+        - React.js
+    - Backend Skills
+        - PHP
+        - MySQL
+    - Framework
+        - Bootstrap
+        - Yii
+        - WordPress
+    - Basic level
+        - Typescript
+        - JSON
+        - C/C++
+        - Java
+        - ASP
+- 🆕 I'm currently learning Go, Node.js, API.
 - 📫 How to reach me jnop.ch@gmail.com
