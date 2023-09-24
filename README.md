@@ -3,10 +3,10 @@
     - Frontend Developing.
     - Political Governance.
     - Development other skills such as softskill, hardskill, and mentelhealth.
-- 🔰 I've knowladge about ...
+- 🎒 I've knowladge about ...
 
-| Frontend Skills | Backend Skills | Framework |
-|:------------------|:---------------:|------------:|
+| 🐤 Frontend Skills | 🐣 Backend Skills | 🐥 Framework |
+|:-----------------|:---------------|:-----------|
 |   HTML            |   PHP           |  Bootstrap  |
 |   CSS             |   MySQL         |  Yii2       |
 |   SCSS            |                 |  WordPress  |
@@ -15,15 +15,15 @@
 |   React.js        |                 |             |
 
 <dl>
-    <dt>Basic level</dt>
+    <dt>🐣 Basic level</dt>
     <dd>Typescript</dd>
     <dd>JSON</dd>
     <dd>C/C++</dd>
     <dd>Java</dd>
 </dl>
 
-- 🆕 I'm currently learning
-    - :clock1: Go 
+- 🔴 I'm currently learning
+    - [ ] Go :clock1:
     - [ ] Node.js
     - [ ] API
 - 📫 How to reach me jnop.ch@gmail.com
