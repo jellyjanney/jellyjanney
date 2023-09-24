@@ -5,7 +5,7 @@
 - Development softskills and mentelhealth.
 ### 🎒 I've knowladge about ... ###
 
-| 🐤 Frontend Skills | 🐣 Backend Skills | 🐥 Framework |
+| 🐤 Frontend | 🐣 Backend | 🐥 Framework |
 |:-----------------|:---------------|:-----------|
 |   HTML            |   PHP           |  Bootstrap  |
 |   CSS             |   MySQL         |  Yii2       |
@@ -14,11 +14,11 @@
 |   jQuery          |                 |             |
 |   React.js        |                 |             |
 
-- 🐣 Basic level
-    - Typescript
-    - JSON
-    - C/C++
-    - Java
+🐣 Basic level
+  - Typescript
+  - JSON
+  - C/C++
+  - Java
 
 ### 🔴 I'm currently learning ###
   - [ ] Go :clock1:
