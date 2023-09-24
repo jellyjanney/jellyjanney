@@ -15,12 +15,11 @@
 |   React.js        |                 |             |
 
 |                       Basic level                 |
-|:------------------|:---------------:|------------:|
 |   Typescript      |  JSON           |  C/C++      |
 |   Java            |  ASP            |             |
 
 - 🆕 I'm currently learning Go, Node.js, API.
-    [] Go (progessing)
+    [] Go :clock1:
     [] Node.js
     [] API
 - 📫 How to reach me jnop.ch@gmail.com
