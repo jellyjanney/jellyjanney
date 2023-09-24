@@ -27,9 +27,9 @@ Exprience in frontend development and design responsive website with HTML, CSS, 
   - C/C++
   - Java
 
-## 🔴 I'm currently learning ##
+## 🔴 I'm currently learning :clock1: ##
   - [ ] Vue.js
-  - [ ] Go
+  - [ ] Go 
   - [ ] Node.js
   - [ ] API
 
