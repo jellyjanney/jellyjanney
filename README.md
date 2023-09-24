@@ -5,7 +5,7 @@
     - Development other skills such as softskill, hardskill, and mentelhealth.
 - 🔰 I've knowladge about ...
 
-| #### Frontend Skills #### | #### Backend Skills #### | #### Framework #### |
+| Frontend Skills | Backend Skills | Framework |
 |:------------------|:---------------:|------------:|
 |   HTML            |   PHP           |  Bootstrap  |
 |   CSS             |   MySQL         |  Yii2       |
@@ -15,12 +15,13 @@
 |   React.js        |                 |             |
 
 
-##### Basic level #####
+#### Basic level ####
+
 |   Typescript      |  JSON           |  C/C++      |
 |   Java            |  ASP            |             |
 
 - 🆕 I'm currently learning
-    - [] Go :clock1:
-    - [] Node.js
-    - [] API
+    - [ ] Go :clock1:
+    - [ ] Node.js
+    - [ ] API
 - 📫 How to reach me jnop.ch@gmail.com
