@@ -5,16 +5,16 @@
     - Development other skills such as softskill, hardskill, and mentelhealth.
 - 🎒 I've knowladge about ...
 
-| 🐤 Frontend Skills | 🐣 Backend Skills | 🐥 Framework |
-|:-----------------|:---------------|:-----------|
-|   HTML            |   PHP           |  Bootstrap  |
-|   CSS             |   MySQL         |  Yii2       |
-|   SCSS            |                 |  WordPress  |
-|   JavaScript      |                 |             |
-|   jQuery          |                 |             |
-|   React.js        |                 |             |
+    | 🐤 Frontend Skills | 🐣 Backend Skills | 🐥 Framework |
+    |:-----------------|:---------------|:-----------|
+    |   HTML            |   PHP           |  Bootstrap  |
+    |   CSS             |   MySQL         |  Yii2       |
+    |   SCSS            |                 |  WordPress  |
+    |   JavaScript      |                 |             |
+    |   jQuery          |                 |             |
+    |   React.js        |                 |             |
 
-    - 🐣 Basic level
+    ### 🐣 Basic level ###
         - Typescript
         - JSON
         - C/C++
