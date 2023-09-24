@@ -7,7 +7,8 @@ Exprience in frontend development and design responsive website with HTML, CSS, 
 ## 👀 I'm interested in ##
 - Frontend Design & Development.
 - Political Governance.
-- Development softskills, mentelhealth and hardskills other.
+- Development softskills and mentelhealth.
+- Superstition 
 
 ## 🎒 I've knowladge about ##
 
