@@ -1,6 +1,6 @@
 - 👋 Hi, I'm [@jellyjanney](https://github.com/jellyjanney).
 - 👀 I'm interested in ...
-    - Frontend Developing.
+    - Frontend Design & Development.
     - Political Governance.
     - Development other skills such as softskill, hardskill, and mentelhealth.
 - 🎒 I've knowladge about ...
@@ -14,11 +14,11 @@
     |   jQuery          |                 |             |
     |   React.js        |                 |             |
 
-    ### 🐣 Basic level ###
-        - Typescript
-        - JSON
-        - C/C++
-        - Java
+    🐣 Basic level
+      - Typescript
+      - JSON
+      - C/C++
+      - Java
 
 - 🔴 I'm currently learning
     - [ ] Go :clock1:
