@@ -14,14 +14,16 @@
 |   jQuery          |                 |             |
 |   React.js        |                 |             |
 
-
-#### Basic level ####
-
-|   Typescript      |  JSON           |  C/C++      |
-|   Java            |  ASP            |             |
+<dl>
+    <dt>Basic level</dt>
+    <dd>Typescript</dd>
+    <dd>JSON</dd>
+    <dd>C/C++</dd>
+    <dd>Java</dd>
+</dl>
 
 - 🆕 I'm currently learning
-    - [ ] Go :clock1:
+    - :clock1: Go 
     - [ ] Node.js
     - [ ] API
 - 📫 How to reach me jnop.ch@gmail.com
