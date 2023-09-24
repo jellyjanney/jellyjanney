@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @jellyjanney.
+- 👋 Hi, I'm [@jellyjanney](https://github.com/jellyjanney).
 - 👀 I'm interested in ...
     - Frontend Developing.
     - Political Governance.
@@ -14,13 +14,11 @@
 |   jQuery          |                 |             |
 |   React.js        |                 |             |
 
-<dl>
-    <dt>🐣 Basic level</dt>
-    <dd>Typescript</dd>
-    <dd>JSON</dd>
-    <dd>C/C++</dd>
-    <dd>Java</dd>
-</dl>
+    - 🐣 Basic level
+        - Typescript
+        - JSON
+        - C/C++
+        - Java
 
 - 🔴 I'm currently learning
     - [ ] Go :clock1:
