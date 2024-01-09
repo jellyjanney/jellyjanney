@@ -16,7 +16,7 @@ My name is Janney. I used to intern as an assistant programmer at Intelligent Bu
 |:-----------------|:---------------|:-----------|
 |   HTML            |   PHP           |  Bootstrap  |
 |   CSS             |   MySQL         |  Yii2       |
-|   SCSS            |   C# (.Net)     |  WordPress  |
+|   SCSS            |                 |  WordPress  |
 |   JavaScript      |                 |             |
 |   jQuery          |                 |             |
 |   React.js        |                 |             |
@@ -27,6 +27,7 @@ My name is Janney. I used to intern as an assistant programmer at Intelligent Bu
   - JSON
   - C/C++
   - Java
+  - C# (.Net)
 
 ## 🔴 I'm currently learning :clock1: ##
   - [ ] Node.js
