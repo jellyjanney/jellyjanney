@@ -16,10 +16,11 @@ My name is Janney. I used to intern as an assistant programmer at Intelligent Bu
 |:-----------------|:---------------|:-----------|
 |   HTML            |   PHP           |  Bootstrap  |
 |   CSS             |   MySQL         |  Yii2       |
-|   SCSS            |                 |  WordPress  |
+|   SCSS            |   C# (.Net)     |  WordPress  |
 |   JavaScript      |                 |             |
 |   jQuery          |                 |             |
 |   React.js        |                 |             |
+|   Tailwind        |                 |             |
 
 🐣 Basic level
   - Typescript
@@ -28,10 +29,10 @@ My name is Janney. I used to intern as an assistant programmer at Intelligent Bu
   - Java
 
 ## 🔴 I'm currently learning :clock1: ##
-  - [ ] Vue.js
-  - [ ] Go 
   - [ ] Node.js
   - [ ] API
+  - [ ] Typescript
+  - [ ] Go 
 
 ## 📫 Reach me ##
   - [Email: jnop.ch@gmail.com](mailto:jnop.ch@gmail.com)
