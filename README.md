@@ -2,7 +2,7 @@
 My name is Janney. I used to intern as an assistant programmer at Intelligent Business (Thailand), and worked as a web designer for about 3 years at Taozi Management. 1 year and Liquidity digital for another 2 years and most recently worked as a Frontend developer at [Zmyhome](https://th.zmyhome.com/) You can get to know me more by
 [My Portfolio](https://thejanney.my.canva.site/portfolio)
  or 
-[My Resume](https://drive.google.com/file/d/1VnHQO3l_jmIOhUIwKBjAixDp4g3mbvKR/view)
+[My Resume](https://drive.google.com/file/d/1mh0DOU6YAF7AS6mDIJQMqca0_XCBRiDP/view)
 
 ## 👀 I'm interested in ##
 - Frontend Design & Development.
