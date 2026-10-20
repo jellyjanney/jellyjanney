@@ -21,7 +21,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 - 💻 Frontend developer สาย **TypeScript + React + MUI**
 - 🎨 ชอบทำ UI ที่ทั้ง **สวย น่ารัก และใช้งานง่าย**
@@ -29,8 +29,8 @@
 - 🌱 กำลังเล่นกับ **Vercel · Supabase · Claude Code**
 - 📍 Bangkok, Thailand
 
-</td>
-<td width="40%" align="center">
+</td></tr><tr>
+<td width="100%" align="center">
 
 ```ts
 const janney = {
