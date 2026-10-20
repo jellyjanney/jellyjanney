@@ -57,20 +57,7 @@ const janney = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🗓️ [Work Planner](https://github.com/jellyjanney/work-planner-web)
-แปลง planner จาก Google Sheet มาเป็นเว็บแอป  
-มีหน้า calendar · task list · detail view
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" />
-
-🔗 [Live demo](https://work-planner-web.vercel.app)
-
-</td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🔗 Lynki.me
 Multi-tenant link-in-bio platform  
