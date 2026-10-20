@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/jellyjanney">
-    <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=600&size=24&duration=3000&pause=800&color=E64980&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8C%B8;TypeScript+%2B+React+%2B+UI Libraries+%F0%9F%92%BB;Turning+ideas+into+cute+UIs+%E2%9C%A8;Based+in+Bangkok%2C+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=600&size=24&duration=3000&pause=800&color=E64980&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8C%B8;TypeScript+%2B+React+%2B+UI+Libraries+%F0%9F%92%BB;Turning+ideas+into+cute+UIs+%E2%9C%A8;Based+in+Bangkok%2C+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="typing" />
   </a>
 </p>
 
@@ -73,12 +73,7 @@ Multi-tenant link-in-bio platform
 </tr>
 </table>
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jellyjanney&show_icons=true&hide_border=true&border_radius=16&bg_color=FFF0F6&title_color=D6336C&text_color=6B4C5A&icon_color=F783AC" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jellyjanney&layout=compact&hide_border=true&border_radius=16&bg_color=F3F0FF&title_color=7048E8&text_color=5F3DC4" alt="top langs" />
-</p>
+## 📊 GitHub activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jellyjanney&hide_border=true&border_radius=16&background=FFF0F6&ring=F783AC&fire=E64980&currStreakLabel=D6336C&sideLabels=9A6A8C&currStreakNum=6B3A5B&sideNums=6B3A5B&dates=B197FC" alt="streak" />
