@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/jellyjanney">
-    <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=600&size=24&duration=3000&pause=800&color=E64980&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8C%B8;TypeScript+%2B+React+%2B+MUI+%F0%9F%92%BB;Turning+ideas+into+cute+UIs+%E2%9C%A8;Based+in+Bangkok%2C+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=600&size=24&duration=3000&pause=800&color=E64980&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8C%B8;TypeScript+%2B+React+%2B+UI Libraries+%F0%9F%92%BB;Turning+ideas+into+cute+UIs+%E2%9C%A8;Based+in+Bangkok%2C+Thailand+%F0%9F%87%B9%F0%9F%87%AD" alt="typing" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 <tr>
 <td width="100%" valign="top">
 
-- 💻 Frontend developer สาย **TypeScript + React + MUI**
+- 💻 Frontend developer สาย **TypeScript + React + Design Systems**
 - 🎨 ชอบทำ UI ที่ทั้ง **สวย น่ารัก และใช้งานง่าย**
 - 🧩 เคยทำงานกับ legacy browser (Chrome &lt; 92) ด้วย polyfill
 - 🌱 กำลังเล่นกับ **Vercel · Supabase · Claude Code**
@@ -35,7 +35,7 @@
 ```ts
 const janney = {
   role: "Frontend Dev",
-  stack: ["TS", "React", "MUI"],
+  stack: ["TS", "React", "Design Systems"],
   loves: ["pastel UI", "clean code"],
   mood: "☕ + 🎀",
 };
