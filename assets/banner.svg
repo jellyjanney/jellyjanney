@@ -72,10 +72,10 @@
     <text x="66" y="26" text-anchor="middle" class="tag">TypeScript</text>
     <rect x="146" width="98" height="40" rx="20" fill="#61C9E8"/>
     <text x="195" y="26" text-anchor="middle" class="tag">React</text>
-    <rect x="258" width="82" height="40" rx="20" fill="#007FFF"/>
-    <text x="299" y="26" text-anchor="middle" class="tag">MUI</text>
-    <rect x="354" width="90" height="40" rx="20" fill="#F48FB1"/>
-    <text x="399" y="26" text-anchor="middle" class="tag">Vite</text>
+    <rect x="258" width="140" height="40" rx="20" fill="#9775FA"/>
+    <text x="328" y="26" text-anchor="middle" class="tag">UI Libraries</text>
+    <rect x="412" width="90" height="40" rx="20" fill="#F48FB1"/>
+    <text x="457" y="26" text-anchor="middle" class="tag">Vite</text>
   </g>
 
   <!-- polaroid card -->
